@@ -1,2 +1,2 @@
 # PatikaProjeleri
-Patika.dev &amp; Kodluyoruz ortaklığıyla yapılan yazılım öğrenme programında yaptığım projeler 
+[Patika.dev](https://www.patika.dev/tr) &amp; [Kodluyoruz](https://www.kodluyoruz.org) ortaklığıyla yapılan yazılım öğrenme programında yaptığım projeler 
